@@ -160,7 +160,7 @@
  ],
  "TECH": [
   {
-   "t": "CO₂ · 100W",
+   "t": "CO₂ · 80W",
    "n": "Laser CO₂",
    "d": {
     "it": "Legno, plexiglass, pelle, vetro e MDF. Taglia fino a 20 mm, incide dettagli fotografici.",
@@ -537,18 +537,21 @@
   [
    "🪵",
    {
-    "it": "Menu board in rovere",
+    "it": "Cornice Masello Mappa stratificata legno",
     "en": "Oak menu boards"
    },
-   "#e8d5b0,#c9a876"
+   "#e8d5b0,#c9a876",
+   "img/port-1.webp",
+   "https://www.instagram.com/p/DWbGDTLgi14/?img_index=1"
   ],
   [
    "🏆",
    {
-    "it": "Premio in vetro — Nova Tech",
+    "it": "Nuvola Nome personalizzato",
     "en": "Glass award — Nova Tech"
    },
-   "#eef7f7,#cfe6e8"
+   "#eef7f7,#cfe6e8",
+   "img/port-2.webp"
   ],
   [
    "💍",
@@ -696,8 +699,7 @@
     "prio": 1,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "laser"
+    "v": 1
    },
    {
     "id": "spring",
@@ -723,8 +725,7 @@
     "prio": 6,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "summer",
@@ -750,8 +751,7 @@
     "prio": 6,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "autumn",
@@ -777,8 +777,7 @@
     "prio": 6,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "winter",
@@ -804,8 +803,7 @@
     "prio": 6,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "snow"
+    "v": 1
    },
    {
     "id": "christmas",
@@ -831,8 +829,7 @@
     "prio": 20,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "bokeh"
+    "v": 1
    },
    {
     "id": "newyear",
@@ -858,8 +855,7 @@
     "prio": 18,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "particles"
+    "v": 1
    },
    {
     "id": "epifania",
@@ -884,8 +880,7 @@
     "prio": 12,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "bokeh"
+    "v": 1
    },
    {
     "id": "valentine",
@@ -911,8 +906,7 @@
     "prio": 18,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "carnevale",
@@ -938,8 +932,7 @@
     "prio": 10,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "confetti"
+    "v": 1
    },
    {
     "id": "easter",
@@ -965,8 +958,7 @@
     "prio": 16,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "mothersday",
@@ -992,8 +984,7 @@
     "prio": 15,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "fathersday",
@@ -1019,8 +1010,7 @@
     "prio": 15,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "halloween",
@@ -1046,8 +1036,7 @@
     "prio": 18,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "ognissanti",
@@ -1073,8 +1062,7 @@
     "prio": 9,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "blackfriday",
@@ -1100,8 +1088,7 @@
     "prio": 22,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "backtoschool",
@@ -1127,8 +1114,7 @@
     "prio": 14,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "ferragosto",
@@ -1154,8 +1140,7 @@
     "prio": 10,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "saldi",
@@ -1181,8 +1166,7 @@
     "prio": 12,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "wedding",
@@ -1208,8 +1192,7 @@
     "prio": 12,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "bokeh"
+    "v": 1
    },
    {
     "id": "baby",
@@ -1235,8 +1218,7 @@
     "prio": 8,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "battesimo",
@@ -1261,8 +1243,7 @@
     "prio": 7,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "comunione",
@@ -1288,8 +1269,7 @@
     "prio": 9,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "graduation",
@@ -1315,8 +1295,7 @@
     "prio": 12,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "birthday",
@@ -1342,8 +1321,7 @@
     "prio": 8,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "confetti"
+    "v": 1
    },
    {
     "id": "anniversary",
@@ -1368,8 +1346,7 @@
     "prio": 7,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "bokeh"
+    "v": 1
    },
    {
     "id": "pensione",
@@ -1395,8 +1372,7 @@
     "prio": 6,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "inaugurazione",
@@ -1422,8 +1398,7 @@
     "prio": 7,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "luxury",
@@ -1449,8 +1424,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "minimal",
@@ -1476,8 +1450,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "black",
@@ -1503,8 +1476,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "gold",
@@ -1530,8 +1502,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "marble",
@@ -1557,8 +1528,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "neon",
@@ -1584,8 +1554,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "retro",
@@ -1611,8 +1580,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "vintage",
@@ -1638,8 +1606,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "industrial",
@@ -1665,8 +1632,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "scandi",
@@ -1692,8 +1658,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "japandi",
@@ -1719,8 +1684,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "artdeco",
@@ -1746,8 +1710,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "bauhaus",
@@ -1773,8 +1736,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "botanical",
@@ -1800,8 +1762,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "terrazzo",
@@ -1827,8 +1788,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "particles"
+    "v": 1
    },
    {
     "id": "mono",
@@ -1854,8 +1814,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "pastel",
@@ -1881,8 +1840,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "cyber",
@@ -1908,8 +1866,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "circuit"
+    "v": 1
    },
    {
     "id": "holo",
@@ -1935,8 +1892,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "concrete",
@@ -1962,8 +1918,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "madeinitaly",
@@ -1989,8 +1944,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "sicily",
@@ -2016,8 +1970,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "amalfi",
@@ -2043,8 +1996,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "dolomiti",
@@ -2070,8 +2022,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "venezia",
@@ -2097,8 +2048,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "firenze",
@@ -2124,8 +2074,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "milano",
@@ -2151,8 +2100,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "mediterraneo",
@@ -2178,8 +2126,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "toscana",
@@ -2205,8 +2152,7 @@
     "prio": 5,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "kids",
@@ -2231,8 +2177,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "confetti"
+    "v": 1
    },
    {
     "id": "gaming",
@@ -2257,8 +2202,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "circuit"
+    "v": 1
    },
    {
     "id": "sports",
@@ -2283,8 +2227,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "music",
@@ -2309,8 +2252,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "travel",
@@ -2335,8 +2277,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "camping",
@@ -2361,8 +2302,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "pet",
@@ -2387,8 +2327,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "particles"
+    "v": 1
    },
    {
     "id": "business",
@@ -2413,8 +2352,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "corporate",
@@ -2439,8 +2377,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "wellness",
@@ -2465,8 +2402,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "foodie",
@@ -2491,8 +2427,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "book",
@@ -2517,8 +2452,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "cinema",
@@ -2543,8 +2477,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "photo",
@@ -2569,8 +2502,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "moto",
@@ -2595,8 +2527,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "nautica",
@@ -2621,8 +2552,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "golf",
@@ -2647,8 +2577,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "yoga",
@@ -2673,8 +2602,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "tech",
@@ -2699,8 +2627,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "circuit"
+    "v": 1
    },
    {
     "id": "woodcraft",
@@ -2725,8 +2652,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "acrylicglow",
@@ -2751,8 +2677,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "metal",
@@ -2777,8 +2702,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "leather",
@@ -2803,8 +2727,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "glass",
@@ -2829,8 +2752,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "paper",
@@ -2855,8 +2777,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "fabric",
@@ -2881,8 +2802,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "waves"
+    "v": 1
    },
    {
     "id": "superhero",
@@ -2907,8 +2827,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "beams"
+    "v": 1
    },
    {
     "id": "unicorn",
@@ -2933,8 +2852,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "space",
@@ -2959,8 +2877,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "particles"
+    "v": 1
    },
    {
     "id": "dino",
@@ -2985,8 +2902,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "safari",
@@ -3011,8 +2927,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "floral",
@@ -3037,8 +2952,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    },
    {
     "id": "geometric",
@@ -3063,8 +2977,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "celestial",
@@ -3089,8 +3002,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "particles"
+    "v": 1
    },
    {
     "id": "coffee",
@@ -3115,8 +3027,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "wine",
@@ -3141,8 +3052,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "marble"
+    "v": 1
    },
    {
     "id": "bakery",
@@ -3167,8 +3077,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "confetti"
+    "v": 1
    },
    {
     "id": "garden",
@@ -3193,8 +3102,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "office",
@@ -3219,8 +3127,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "school",
@@ -3245,8 +3152,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "graduationgold",
@@ -3271,8 +3177,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "rays"
+    "v": 1
    },
    {
     "id": "minimalwhite",
@@ -3297,8 +3202,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "grid"
+    "v": 1
    },
    {
     "id": "darkwood",
@@ -3323,8 +3227,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "topo"
+    "v": 1
    },
    {
     "id": "festalaurea",
@@ -3349,8 +3252,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "confetti"
+    "v": 1
    },
    {
     "id": "memorial",
@@ -3375,8 +3277,7 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "arcs"
+    "v": 1
    },
    {
     "id": "easterpastel",
@@ -3401,9 +3302,53 @@
     "prio": 4,
     "stato": "libreria",
     "art": {},
-    "v": 1,
-    "bg": "mesh"
+    "v": 1
    }
+  ]
+ },
+ "MV": {
+  "img/1.webp": [
+   400
+  ],
+  "img/3.webp": [
+   400,
+   800
+  ],
+  "img/cat-casa.webp": [
+   400,
+   800
+  ],
+  "img/cat-eventi.webp": [
+   400,
+   800
+  ],
+  "img/port-1.webp": [
+   400,
+   800
+  ],
+  "img/2.webp": [
+   400,
+   800
+  ],
+  "img/4.webp": [
+   400,
+   800
+  ],
+  "img/port-2.webp": [
+   400,
+   800
+  ],
+  "img/cat-animali.webp": [
+   400,
+   800
+  ],
+  "img/cat-bambini.webp": [
+   400,
+   800
+  ],
+  "img/cat-stagionale.webp": [
+   400,
+   800
   ]
  },
  "PROMO": {
@@ -3422,8 +3367,10 @@
   "link": "#/shop",
   "colori": "#1E3A8A,#111827"
  },
+ "FOCAL": {},
  "SPONSORS": {
   "attivo": true,
+  "grigio": false,
   "titolo": {
    "it": "Partner & Sponsor",
    "en": "Partners & Sponsors"
@@ -3432,12 +3379,11 @@
    "it": "Aziende e artigiani con cui lavoriamo ogni giorno.",
    "en": "Businesses and makers we work with every day."
   },
-  "grigio": false,
-  "lista": [],
   "cta": {
    "it": "Vuoi comparire qui? Scrivici.",
    "en": "Want to appear here? Get in touch."
   },
-  "ctaLink": "#/contatti"
+  "ctaLink": "#/contatti",
+  "lista": []
  }
 }
