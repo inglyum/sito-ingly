@@ -3360,6 +3360,14 @@
   "img/cat-limited.webp": [
    400,
    800
+  ],
+  "img/17.webp": [
+   400,
+   800
+  ],
+  "img/6.webp": [
+   400,
+   800
   ]
  },
  "PROMO": {
@@ -3404,7 +3412,8 @@
      "it": "",
      "en": ""
     },
-    "logo": "img/sponsor-1.webp"
+    "logo": "img/sponsor-1.webp",
+    "attivo": false
    }
   ]
  }
