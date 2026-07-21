@@ -52,7 +52,7 @@
   }
  },
  "aboutMedia": {
-  "tipo": "immagine",
-  "src": "img/about.webp"
+  "tipo": "logo",
+  "src": ""
  }
 }
