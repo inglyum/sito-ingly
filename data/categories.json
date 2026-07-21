@@ -206,7 +206,10 @@
    }
   ],
   "w": 1,
-  "icon": "aziendale"
+  "icon": "aziendale",
+  "img": "img/cat-b2b.webp",
+  "big": "",
+  "bg": ""
  },
  {
   "id": "bambini",
@@ -399,6 +402,8 @@
    }
   ],
   "bg": "linear-gradient(150deg,#fff8e0,#fdeeb5)",
-  "icon": "limited"
+  "icon": "limited",
+  "img": "img/cat-limited.webp",
+  "big": ""
  }
 ]
