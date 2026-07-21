@@ -3925,9 +3925,9 @@
     "logo": "img/sponsor-1.webp"
    },
    {
-    "nome": "Nuovo partner",
+    "nome": "Intravaia Termoelettrica",
     "link": "",
-    "livello": "silver",
+    "livello": "",
     "desc": {
      "it": "",
      "en": ""
@@ -3935,14 +3935,14 @@
     "logo": "img/sponsor-2.svg"
    },
    {
-    "nome": "Nuovo partner",
+    "nome": "Spatola ",
     "link": "",
-    "livello": "silver",
+    "livello": "",
     "desc": {
      "it": "",
      "en": ""
     },
-    "logo": "img/sponsor-3.webp"
+    "logo": "img/sponsor-3.svg"
    }
   ]
  }
